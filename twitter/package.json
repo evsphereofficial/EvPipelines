@@ -1,0 +1,24 @@
+{
+  "name": "social-workflow",
+  "version": "1.0.0",
+  "description": "One-shot scheduled Twitter/X + Discord posting workflow",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dry-run": "tsx src/index.ts --dry-run --fast",
+    "check": "tsx src/index.ts --check",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "twitter-api-v2": "^1.17.0",
+    "x-client-transaction-id": "^0.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "playwright": "^1.64.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}

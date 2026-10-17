@@ -1,0 +1,134 @@
+{
+  "actions": [
+    {
+      "id": "p1-cashback",
+      "at": "0m",
+      "platform": "twitter",
+      "text": "Every challenge bought through us earns cashback back — up to 20% on some firms.\n\nMost traders pay full price, get nothing back, then complain the fee hurt.\n\nBe honest — do you check for cashback before you buy? 👇"
+    },
+    {
+      "id": "p1-cashback-reply",
+      "at": "10m",
+      "platform": "twitter",
+      "replyTo": "p1-cashback",
+      "text": "Cashback terms + which firms qualify: https://theforexclue.in/offers"
+    },
+    {
+      "id": "p2-referral",
+      "at": "45m",
+      "platform": "twitter",
+      "text": "Real talk: traders who survive prop long-term treat challenge fees like marketing spend.\n\nRefer a trader who funds → you both earn rewards. Refer 3 → your next challenge mostly pays for itself.\n\nWho here actually refers people? 👇"
+    },
+    {
+      "id": "p2-referral-reply",
+      "at": "55m",
+      "platform": "twitter",
+      "replyTo": "p2-referral",
+      "text": "How rewards + referrals stack: https://theforexclue.in/faqs"
+    },
+    {
+      "id": "p3-verified",
+      "at": "1h30m",
+      "platform": "twitter",
+      "text": "FTMO paid $14.4M to 7,100 traders in September — they said it themselves.\n\n\"Said it\" and \"verified it\" are different things.\n\nOur tracker only counts payouts with receipts. One is a press release, one is a ledger.\n\nWhich firm tops it? Guess. 👇"
+    },
+    {
+      "id": "p3-verified-reply",
+      "at": "1h40m",
+      "platform": "twitter",
+      "replyTo": "p3-verified",
+      "text": "Only receipt-verified payouts count: https://theforexclue.in/payout-tracker"
+    },
+    {
+      "id": "p4-futures",
+      "at": "2h15m",
+      "platform": "twitter",
+      "text": "Forex traders moving to futures in 2026: what's actually holding you back?\n\nOne firm's futures book paid $16.5M on-chain this month across 10,444 payouts.\n\nRules unfamiliar? Learning curve? Capital?\n\nBiggest blocker = your reply. 👇"
+    },
+    {
+      "id": "p4-futures-reply",
+      "at": "2h25m",
+      "platform": "twitter",
+      "replyTo": "p4-futures",
+      "text": "Futures firms we track, head-to-head: https://theforexclue.in/futures"
+    },
+    {
+      "id": "p5-profit-split",
+      "at": "3h",
+      "platform": "twitter",
+      "text": "The math nobody shows you:\n\n90% profit split with a payout cap pays less than an 80% split with clean monthly cycles.\n\nProfit split is marketing. Payout TERMS are money.\n\nWorst payout-limit trap you've seen? 👇"
+    },
+    {
+      "id": "p5-profit-split-reply",
+      "at": "3h10m",
+      "platform": "twitter",
+      "replyTo": "p5-profit-split",
+      "text": "Profit splits, caps and cycles explained: https://theforexclue.in/academy"
+    },
+    {
+      "id": "p6-confession",
+      "at": "3h45m",
+      "platform": "twitter",
+      "text": "Confession time: how much have you spent on prop challenges all-time?\n\n$500? $2K? $10K+ — nobody's judging, every trader here started at zero.\n\nDrop the number. 👇"
+    },
+    {
+      "id": "p6-confession-reply",
+      "at": "3h55m",
+      "platform": "twitter",
+      "replyTo": "p6-confession",
+      "text": "Before the next buy, compare first: https://theforexclue.in/compare-firms"
+    },
+    {
+      "id": "p7-support",
+      "at": "4h30m",
+      "platform": "twitter",
+      "text": "A $39 challenge fee is not the problem.\n\nA 3-day support reply after a payout stall is.\n\nPayout speed without support speed is stalling with extra steps.\n\nLongest support wait you've had holding YOUR account hostage? 👇"
+    },
+    {
+      "id": "p7-support-reply",
+      "at": "4h40m",
+      "platform": "twitter",
+      "replyTo": "p7-support",
+      "text": "Customer-care scores on every firm: https://theforexclue.in/firm-reviews"
+    },
+    {
+      "id": "p8-stall",
+      "at": "5h15m",
+      "platform": "twitter",
+      "text": "POV: your payout stalled 9 days on \"processing\" while another firm sends payouts in an hour.\n\nAverage payout time per firm, from evidence, is on our tracker — not their marketing pages.\n\nWhich firm takes longest with you? Name them. 👇"
+    },
+    {
+      "id": "p8-stall-reply",
+      "at": "5h25m",
+      "platform": "twitter",
+      "replyTo": "p8-stall",
+      "text": "Payout timing, verified per firm: https://theforexclue.in/payout-tracker"
+    },
+    {
+      "id": "p9-rules",
+      "at": "6h",
+      "platform": "twitter",
+      "text": "The one rule we check before a firm gets listed:\n\nDoes it publish its rules clearly enough to follow WITHOUT buying first?\n\n\"See full rules after purchase\" isn't transparency. It's a toll.\n\nWhat's the first rule YOU check before buying? 👇"
+    },
+    {
+      "id": "p9-rules-reply",
+      "at": "6h10m",
+      "platform": "twitter",
+      "replyTo": "p9-rules",
+      "text": "Live rule comparisons for 17 firms: https://theforexclue.in/prop-firm-rules"
+    },
+    {
+      "id": "p10-quiz",
+      "at": "6h45m",
+      "platform": "twitter",
+      "text": "Test your firm awareness:\n\nName the firm that paid the most to traders last month.\n\nMost people guess the loudest brand on their feed. The verified numbers might surprise you.\n\nAnswer with one word. Correct answers get a follow. 👇"
+    },
+    {
+      "id": "p10-quiz-reply",
+      "at": "6h55m",
+      "platform": "twitter",
+      "replyTo": "p10-quiz",
+      "text": "Check your answer — verified monthly leaderboard: https://theforexclue.in/payout-tracker"
+    }
+  ]
+}

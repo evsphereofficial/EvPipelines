@@ -1,0 +1,11 @@
+{
+  "actions": [
+    {
+      "id": "delegate-reply-test",
+      "at": "0m",
+      "platform": "twitter",
+      "replyTo": "2110702451384840657",
+      "text": "Correction test: this should appear as a REPLY under the post above, not as a standalone tweet. Ignore."
+    }
+  ]
+}
